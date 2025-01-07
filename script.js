@@ -68,3 +68,4 @@ generateGridButton.addEventListener('click', () => {
 });
 
 createGrid(8)
+
